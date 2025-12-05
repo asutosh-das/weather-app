@@ -91,3 +91,17 @@ body{
     font-size: 28px;
     margin-top: -6px;
 }
+
+.weather{
+    display: none;
+}
+
+.error{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    margin: left;
+    font-size: 14px;
+    margin-top: 10px;
+    color: red;
+    display: none;
+}
